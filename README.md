@@ -34,4 +34,4 @@ The `ref_to_id` function in the script converts references to IDs based on speci
 - `input_ids.xlsx`: Input Excel file containing IDs.
 
 ## Output
-Upon successful execution, the script will create an updated Excel file (`input_ids.xlsx`) with a new column of resulting IDs.
+Upon successful execution, the script will create an updated Excel file (`output_ids.xlsx`) with a new column of resulting IDs.
